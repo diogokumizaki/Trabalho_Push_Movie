@@ -1,0 +1,15 @@
+com\mycompany\bibliotecafilmes\tables\TabelaListaFilmes.class
+com\mycompany\bibliotecafilmes\tables\FilmeTable.class
+com\mycompany\bibliotecafilmes\model\Filme.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$2.class
+com\mycompany\bibliotecafilmes\view\FilmeFrame$1.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$4.class
+com\mycompany\bibliotecafilmes\MovieDatabase.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$3.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$Main$1.class
+com\mycompany\bibliotecafilmes\view\FilmeFrame.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$Main.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$5.class
+com\mycompany\bibliotecafilmes\ArquivoCsv.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame$1.class
+com\mycompany\bibliotecafilmes\view\PesquisaFilmeFrame.class
